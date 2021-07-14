@@ -7,13 +7,13 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/irikras/Credit-Card-Number-Validator/issues/1#issue-943405519
+* [Issue#1](https://github.com/irikras/Credit-Card-Number-Validator/issues/1#issue-943405519)
 
 ## Описание процесса тестирования
 
 Запустить программу с кодом, подставляя валидные и невалидные номера банковских карт.
 
-В качестве тестовых данных использовались данные с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html#fakeNumbers:
+В качестве тестовых данных использовались данные с сайта [Credit Card Number Generator & Validator](https://www.freeformatter.com/credit-card-number-generator-validator.html#fakeNumbers):
 * Result is OK (по валидным номерам банковских карт)
 * Result is FAIL (по невалидным/фейковым номерам банковских карт)
 
