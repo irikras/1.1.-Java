@@ -7,7 +7,7 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Issue#1](https://github.com/irikras/Credit-Card-Number-Validator/issues/1#issue-943405519)
+* [Не валидный номер карты отображается как валидный](https://github.com/irikras/Credit-Card-Number-Validator/issues/1#issue-943405519)
 
 ## Описание процесса тестирования
 
